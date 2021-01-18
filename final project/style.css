@@ -182,9 +182,14 @@ nav ul {
 }
 .name-form,
 .email-form,
-.feedback {
+.feedback,
+textarea {
   padding: 2rem;
   text-align: center;
+}
+textarea{
+  margin-left: 17%;
+  width: 310px;
 }
 .feedback h5{
   margin-left: -30%;
